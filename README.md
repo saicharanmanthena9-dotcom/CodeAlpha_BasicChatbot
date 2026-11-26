@@ -1,4 +1,4 @@
-# CodeAlpha Task 4: Basic Chatbot
+# CodeAlpha Task 3: Basic Chatbot
 
 A simple rule-based Python chatbot with predefined responses.
 
@@ -17,4 +17,4 @@ Functions, while loop, if-elif-else, string methods, console input/output.
 python main.py
 ```
 
-CodeAlpha Python Programming Internship — Task 4.
+CodeAlpha Python Programming Internship — Task 3.

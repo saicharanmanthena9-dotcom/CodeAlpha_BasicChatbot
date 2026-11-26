@@ -1,4 +1,4 @@
-# CodeAlpha Internship - Task 4: Basic Chatbot
+# CodeAlpha Internship - Task 3: Basic Chatbot
 
 def chatbot():
     print("=" * 40)
